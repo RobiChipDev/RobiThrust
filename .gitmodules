@@ -1,0 +1,3 @@
+[submodule "RobiStandard"]
+	path = RobiStandard
+	url = git@github.com:RobiChipDev/RobiStandard.git
